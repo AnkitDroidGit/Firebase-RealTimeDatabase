@@ -2,7 +2,7 @@
 This is example to connect to FireBase realtime database and pushing custom POJO to db
 
 
-### Contact - Let's connect to each other
+### Contact - Let's connect to learn together
 - [Twitter](https://twitter.com/KumarAnkitRKE)
 - [Github](https://github.com/AnkitDroidGit)
 - [LinkedIn](https://www.linkedin.com/in/kumarankitkumar/)
